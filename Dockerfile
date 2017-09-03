@@ -1,4 +1,4 @@
-FROM stretch-slim 
+FROM debian:stretch-slim 
 
 MAINTAINER C. Fernando Maciel <claudio.fernando.maciel@dersalvador.com>
 
